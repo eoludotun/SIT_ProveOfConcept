@@ -1,0 +1,62 @@
+<html>
+<head><style type="text/css">h1 {background-color:#9999CC}
+h2 {background-color:#BBBBCC}
+h3 {background-color:#DDDDFF}
+th {border:1px solid black;background-color:#CCCCDD;}
+td{border:1px solid black;}
+table {border:1px solid black;border-collapse: collapse;}
+.chart {border:0px none black;border-collapse: collapse;background-color: none;}
+.passed {background-color:lightgreen;font-weight:bold;color:darkgreen}
+.failed {background-color:tomato;font-weight:bold;color:darkred}
+.undefined {background-color:gold;font-weight:bold;color:goldenrod}
+.skipped {background-color:silver;font-weight:bold;color:darkgray}
+.known {background-color:goldenrod;font-weight:bold;color:darkred}
+.passed_description {background-color:#D0FFD0;font-weight:bold;font-style:italic;color:black}
+.failed_description {background-color:#FFA898;font-weight:bold;font-style:italic;color:black}
+.comment {font-family:courier;font-weight:normal;font-size:small;color:black;border:1px dashed black;background-color:silver}
+.tip {font-family:courier;font-weight:normal;font-size:small;color:white;background-color:black}
+OL { counter-reset: item }
+OL>LI { display: block }
+OL>LI:before { content: counters(item, ".") " "; counter-increment: item }
+
+div.header {
+    display: block; text-align: center;
+    position: running(header);
+}
+div.footer {
+    display: block; text-align: center;
+    position: running(footer);
+}
+div.content {page-break-after: always;}
+@page {
+	 size: A4 Landscape;
+     @top-center {
+     	content: "Detailed Results Report";
+	    color: silver;
+	    font-size: 14px;
+     }
+     @top-right {
+     	content: date("dd MMM, yyyy hh:mm");
+	    color: silver;
+	    font-size: 8px;
+     }
+    @bottom-right {
+    	content: "Page " counter(page) " of " counter(pages) ;
+	    color: silver;
+	    font-size: 8px;
+    }
+}
+ol a::after {
+  content: leader('.') target-counter(attr(href), page);
+}
+</style>
+<title>Detailed Results Report</title>
+  </head>
+  <body>
+    <div class='header'></div>
+    <div class='footer'></div>
+  <h1>Overview</h1>
+<table><tr><th></th><th>Passed</th><th>Failed</th><th>Known</th><th>Undefined</th><th>%Passed</th></tr><tr><th>Features</th><td class="passed">2</td><td class="failed">0</td><td class="known">0</td><td class="undefined">1</td><td>66.67</td></tr><tr><th>Scenarios</th><td class="passed">3</td><td class="failed">0</td><td class="known">0</td><td class="undefined">1</td><td>75.00</td></tr><tr><th>Steps</th><td class="passed">6</td><td class="failed">0</td><td class="known">0</td><td class="undefined">0</td><td>100.00</td></tr></table><div><b>Overall Duration: 0h 00m 47s</b></div>
+<a id="top"></a><h1>Table of Contents</h1><ol><li> <span class="passed"><a href="#feature-2my-second-application-feature-(story-:ps-101)">My second application Feature (story :PS-101)</a></span><ol><li> <span class="passed"><a href="#sc-4-my-second-application-feature-(story-:ps-101);user-can-sort-in-the-right-order">User can sort in the right order</a></span></li></ol></li><li> <span class="passed"><a href="#feature-2magical-app-test-case-(story-:ps-102)">MAGICAL APP Test-case (story :PS-102)</a></span><ol><li> <span class="passed"><a href="#sc-4-magical-app-test-case-(story-:ps-102);magical-app-test">MAGICAL APP Test</a></span></li></ol></li><li> <span class="undefined"><a href="#feature-2user-must-see-that-sorting-display-(story-:ps-103)">User must see that sorting display (story :PS-103)</a></span><ol><li> <span class="undefined"><a href="#sc-4-user-must-see-that-sorting-display-(story-:ps-103);user-verify-sorting-display-in-the-right-order">User verify sorting display in the right order</a></span></li><li> <span class="passed"><a href="#sc-6-user-must-see-that-sorting-display-(story-:ps-103);user-can-sort-in-the-right-order">User can sort in the right order</a></span></li></ol></li></ol><h1>Detailed Results Report</h1><table width="700px"><tr class="passed"><td colspan="4"><b>Feature:</b> <a id="feature-2my-second-application-feature-(story-:ps-101)">My second application Feature (story :PS-101)</a></td></tr><tr class="passed"><td><small><b>Passed:</b> 1</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 17.71s</small></td></tr><tr class="passed"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="passed"><td colspan="4"><b>Scenario:</b> <a id="sc-4-my-second-application-feature-(story-:ps-101);user-can-sort-in-the-right-order">User can sort in the right order</a></td></tr><tr class="passed"><td><small><b>Passed:</b> 2</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 17.71s</small></td></tr><tr class="passed"><td>Before</td><td colspan="2"></td><td width="100">4.70s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr class="passed"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="passed"><td><b>Given </b> User is on google search page</td><td width="100">3.01s</td></tr><tr class="passed"><td><b>When </b> User type &quot;Ben&quot; on the search text box</td><td width="100">8.75s</td></tr></table></td></tr><tr class="passed"><td>After</td><td colspan="2"></td><td width="100">1.25s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr><td colspan="5"><sup><a href="#top">Back to Table of Contents</a></sup></td></tr></table></td></tr><tr><td colspan="5"></td></tr><tr class="passed"><td colspan="4"><b>Feature:</b> <a id="feature-2magical-app-test-case-(story-:ps-102)">MAGICAL APP Test-case (story :PS-102)</a></td></tr><tr class="passed"><td><small><b>Passed:</b> 1</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 9.54s</small></td></tr><tr class="passed"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="passed"><td colspan="4"><b>Scenario:</b> <a id="sc-4-magical-app-test-case-(story-:ps-102);magical-app-test">MAGICAL APP Test</a></td></tr><tr class="passed"><td><small><b>Passed:</b> 2</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 9.54s</small></td></tr><tr class="passed"><td>Before</td><td colspan="2"></td><td width="100">3.32s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr class="passed"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="passed"><td><b>Given </b> User is on google search page</td><td width="100">2.32s</td></tr><tr class="passed"><td><b>When </b> User type &quot;Ben&quot; on the search text box</td><td width="100">0.87s</td></tr></table></td></tr><tr class="passed"><td>After</td><td colspan="2"></td><td width="100">3.04s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr><td colspan="5"><sup><a href="#top">Back to Table of Contents</a></sup></td></tr></table></td></tr><tr><td colspan="5"></td></tr><tr class="undefined"><td colspan="4"><b>Feature:</b> <a id="feature-2user-must-see-that-sorting-display-(story-:ps-103)">User must see that sorting display (story :PS-103)</a></td></tr><tr class="undefined"><td><small><b>Passed:</b> 1</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 1</small></td><td><small>Duration: 20.60s</small></td></tr><tr class="undefined"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="undefined"><td colspan="4"><b>Scenario:</b> <a id="sc-4-user-must-see-that-sorting-display-(story-:ps-103);user-verify-sorting-display-in-the-right-order">User verify sorting display in the right order</a></td></tr><tr class="undefined"><td><small><b>Passed:</b> 0</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 4.21s</small></td></tr><tr class="passed"><td>Before</td><td colspan="2"></td><td width="100">3.17s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr class="undefined"><td colspan="4" style="padding-left:20px"> <table width="100%"></table></td></tr><tr class="passed"><td>After</td><td colspan="2"></td><td width="100">1.04s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr><td colspan="5"><sup><a href="#top">Back to Table of Contents</a></sup></td></tr><tr class="passed"><td colspan="4"><b>Scenario:</b> <a id="sc-6-user-must-see-that-sorting-display-(story-:ps-103);user-can-sort-in-the-right-order">User can sort in the right order</a></td></tr><tr class="passed"><td><small><b>Passed:</b> 2</small></td><td><small><b>Failed:</b> 0</small></td><td><small><b>Undefined:</b> 0</small></td><td><small>Duration: 16.39s</small></td></tr><tr class="passed"><td>Before</td><td colspan="2"></td><td width="100">3.19s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr class="passed"><td colspan="4" style="padding-left:20px"> <table width="100%"><tr class="passed"><td><b>Given </b> User is on google search page</td><td width="100">2.51s</td></tr><tr class="passed"><td><b>When </b> User type &quot;Ben&quot; on the search text box</td><td width="100">7.82s</td></tr></table></td></tr><tr class="passed"><td>After</td><td colspan="2"></td><td width="100">2.88s</td></tr><tr class="passed"><td colspan="4"></td></tr><tr><td colspan="5"><sup><a href="#top">Back to Table of Contents</a></sup></td></tr></table></td></tr><tr><td colspan="5"></td></tr></table>
+	</body>
+</html>
