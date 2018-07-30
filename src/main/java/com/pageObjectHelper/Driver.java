@@ -12,6 +12,7 @@ import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.UnreachableBrowserException;
@@ -54,17 +55,19 @@ public class Driver {
         currentDir = System.getProperty("user.dir");
         log().info("Current Platform is: " + System.getProperty("os.name"));
         if (System.getProperty("os.name").contains("Windows")) {
-            System.setProperty("webdriver.chrome.driver", currentDir
-                    + "/drivers/chromedriver.exe");
+            System.setProperty("phantomjs.binary.path", currentDir
+                    + "/drivers/phantomjs.exe");
+       
         } else {
-            System.setProperty("webdriver.chrome.driver", currentDir
-                    + "/drivers/chromedriver");
+            System.setProperty("phantomjs.binary.path", currentDir
+                    + "/drivers/phantomjs");
         }
     }
 
     public static WebDriver initialiseDriver() {
         setSystemsProperties();
-        aDriver = new ChromeDriver();
+        //aDriver = new ChromeDriver();
+        aDriver = new PhantomJSDriver();
         log().info("Current Browser is: " + aDriver);
         System.out.println(aDriver);
         aDriver.manage().timeouts().implicitlyWait(5L, TimeUnit.SECONDS);

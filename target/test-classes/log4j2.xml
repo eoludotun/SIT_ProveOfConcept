@@ -4,7 +4,7 @@
         <Console name="Console" target="SYSTEM_OUT">
              <PatternLayout pattern="%d{yyy-MM-dd : HH:mm:ss} - %-5level - %msg%n" />
         </Console>
-        <File name="MyFile" fileName="NCR_SIT/TestAutomation.log" immediateFlush="true" append="true">
+        <File name="MyFile" fileName="SIT_ProveOfConcept/TestAutomation.log" immediateFlush="true" append="true">
             <PatternLayout pattern="%d{yyy-MM-dd : HH:mm:ss} - %-5level - %msg%n"/>
         </File>
     </Appenders>
