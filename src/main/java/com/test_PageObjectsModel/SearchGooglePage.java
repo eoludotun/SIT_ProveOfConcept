@@ -35,16 +35,7 @@ public class SearchGooglePage extends Driver{
     }
 
 
-    public void  searchKeyword(String keyword) throws Exception{
-    	
-//    	WebElement searchBox = pageWeBElement(By.name("q"));
-//      
-////    	 log().error(searchBox.getAttribute("value"));
-//            searchBox.sendKeys(keyword, Keys.ENTER);         	
-//    
-
-
-            
+    public void  searchKeyword(String keyword) throws Exception{     
             
     		String temp=null;
     		/**
@@ -117,6 +108,5 @@ public class SearchGooglePage extends Driver{
     		System.out.println("Elements in the dynamic table are sorted::"+ result);  
     	}
      
-    
 
 }

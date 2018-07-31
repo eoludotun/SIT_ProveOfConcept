@@ -875,3 +875,1183 @@ O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:
 2018-07-30 : 20:30:07 - INFO  - Current Platform is: Windows 10
 2018-07-30 : 20:30:27 - INFO  - Current Platform is: Windows 10
 2018-07-30 : 20:30:27 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:44 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:44 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:47 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (f81fb2e0-9458-11e8-8d5b-294acf600a07)
+2018-07-30 : 20:30:47 - INFO  - =====================================================
+2018-07-30 : 20:30:47 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-30 : 20:30:47 - INFO  - =====================================================
+2018-07-30 : 20:30:47 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:30:47 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:47 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:51 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:30:51 - ERROR - searching for : Ben
+2018-07-30 : 20:30:52 - INFO  - =====================================================
+2018-07-30 : 20:30:52 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-30 : 20:30:52 - INFO  - Scenario Test time duration is:>  0 Minutes : 5 Seconds 
+2018-07-30 : 20:30:52 - INFO  - =====================================================
+2018-07-30 : 20:30:53 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:53 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:30:55 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (fd0423e0-9458-11e8-997a-c3105969a0c1)
+2018-07-30 : 20:30:55 - INFO  - =====================================================
+2018-07-30 : 20:30:55 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-30 : 20:30:55 - INFO  - =====================================================
+2018-07-30 : 20:30:55 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:30:59 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:30:59 - ERROR - searching for : Ben
+2018-07-30 : 20:31:00 - INFO  - =====================================================
+2018-07-30 : 20:31:00 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-30 : 20:31:00 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-30 : 20:31:00 - INFO  - =====================================================
+2018-07-30 : 20:31:01 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:01 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:03 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (01b32d00-9459-11e8-a382-efe3564bb6a1)
+2018-07-30 : 20:31:03 - INFO  - =====================================================
+2018-07-30 : 20:31:03 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-30 : 20:31:03 - INFO  - =====================================================
+2018-07-30 : 20:31:03 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:31:03 - INFO  - =====================================================
+2018-07-30 : 20:31:03 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-30 : 20:31:03 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-30 : 20:31:03 - INFO  - =====================================================
+2018-07-30 : 20:31:04 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:04 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:06 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (03704650-9459-11e8-8a8f-3536bc5324e0)
+2018-07-30 : 20:31:06 - INFO  - =====================================================
+2018-07-30 : 20:31:06 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-30 : 20:31:06 - INFO  - =====================================================
+2018-07-30 : 20:31:06 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:31:07 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:07 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:31:13 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:31:13 - ERROR - searching for : Ben
+2018-07-30 : 20:31:15 - INFO  - =====================================================
+2018-07-30 : 20:31:15 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-30 : 20:31:15 - INFO  - Scenario Test time duration is:>  0 Minutes : 8 Seconds 
+2018-07-30 : 20:31:15 - INFO  - =====================================================
+2018-07-30 : 20:32:05 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:05 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:08 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (2885aed0-9459-11e8-bb49-3d2c96da24ce)
+2018-07-30 : 20:32:08 - INFO  - =====================================================
+2018-07-30 : 20:32:08 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-30 : 20:32:08 - INFO  - =====================================================
+2018-07-30 : 20:32:08 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:32:13 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:32:13 - ERROR - searching for : Ben
+2018-07-30 : 20:32:15 - INFO  - =====================================================
+2018-07-30 : 20:32:15 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-30 : 20:32:15 - INFO  - Scenario Test time duration is:>  0 Minutes : 6 Seconds 
+2018-07-30 : 20:32:15 - INFO  - =====================================================
+2018-07-30 : 20:32:17 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:17 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:20 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (2f494010-9459-11e8-8993-0b8c98ee8277)
+2018-07-30 : 20:32:20 - INFO  - =====================================================
+2018-07-30 : 20:32:20 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-30 : 20:32:20 - INFO  - =====================================================
+2018-07-30 : 20:32:20 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:32:23 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:32:23 - ERROR - searching for : Ben
+2018-07-30 : 20:32:24 - INFO  - =====================================================
+2018-07-30 : 20:32:24 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-30 : 20:32:24 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-30 : 20:32:24 - INFO  - =====================================================
+2018-07-30 : 20:32:25 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:25 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:27 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (33dd9540-9459-11e8-b303-f35102fde916)
+2018-07-30 : 20:32:27 - INFO  - =====================================================
+2018-07-30 : 20:32:27 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-30 : 20:32:27 - INFO  - =====================================================
+2018-07-30 : 20:32:27 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:32:27 - INFO  - =====================================================
+2018-07-30 : 20:32:27 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-30 : 20:32:27 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-30 : 20:32:27 - INFO  - =====================================================
+2018-07-30 : 20:32:28 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:28 - INFO  - Current Platform is: Windows 10
+2018-07-30 : 20:32:30 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (359afcb0-9459-11e8-bb08-6d997ad4fb00)
+2018-07-30 : 20:32:30 - INFO  - =====================================================
+2018-07-30 : 20:32:30 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-30 : 20:32:30 - INFO  - =====================================================
+2018-07-30 : 20:32:30 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-30 : 20:32:34 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-30 : 20:32:34 - ERROR - searching for : Ben
+2018-07-30 : 20:32:35 - INFO  - =====================================================
+2018-07-30 : 20:32:35 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-30 : 20:32:35 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-30 : 20:32:35 - INFO  - =====================================================
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:18:45 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:16 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:16 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:20 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (db18e080-94cc-11e8-9b38-f38a2a3a2798)
+2018-07-31 : 10:20:20 - INFO  - =====================================================
+2018-07-31 : 10:20:20 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:20:20 - INFO  - =====================================================
+2018-07-31 : 10:20:20 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:20:24 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:20:24 - ERROR - searching for : Ben
+2018-07-31 : 10:20:25 - INFO  - =====================================================
+2018-07-31 : 10:20:25 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:20:25 - INFO  - Scenario Test time duration is:>  0 Minutes : 5 Seconds 
+2018-07-31 : 10:20:25 - INFO  - =====================================================
+2018-07-31 : 10:20:26 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:26 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:28 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (e01cc060-94cc-11e8-a775-4b960c976f92)
+2018-07-31 : 10:20:28 - INFO  - =====================================================
+2018-07-31 : 10:20:28 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:20:28 - INFO  - =====================================================
+2018-07-31 : 10:20:28 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:20:33 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:20:33 - ERROR - searching for : Ben
+2018-07-31 : 10:20:33 - INFO  - =====================================================
+2018-07-31 : 10:20:33 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:20:33 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:20:33 - INFO  - =====================================================
+2018-07-31 : 10:20:34 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:34 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:36 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (e4df2a70-94cc-11e8-8c52-91ac834266ee)
+2018-07-31 : 10:20:36 - INFO  - =====================================================
+2018-07-31 : 10:20:36 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:20:36 - INFO  - =====================================================
+2018-07-31 : 10:20:36 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:20:36 - INFO  - =====================================================
+2018-07-31 : 10:20:36 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:20:36 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:20:36 - INFO  - =====================================================
+2018-07-31 : 10:20:37 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:37 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:20:39 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (e69e3f90-94cc-11e8-9317-67ea0f141141)
+2018-07-31 : 10:20:39 - INFO  - =====================================================
+2018-07-31 : 10:20:39 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:20:39 - INFO  - =====================================================
+2018-07-31 : 10:20:39 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:20:42 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:20:42 - ERROR - searching for : Ben
+2018-07-31 : 10:20:43 - INFO  - =====================================================
+2018-07-31 : 10:20:43 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:20:43 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:20:43 - INFO  - =====================================================
+2018-07-31 : 10:24:27 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:27 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:30 - INFO  - Current Browser is: ChromeDriver: chrome on XP (95c485a1cadcb0b2c786e0178f7dc137)
+2018-07-31 : 10:24:31 - INFO  - =====================================================
+2018-07-31 : 10:24:31 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:24:31 - INFO  - =====================================================
+2018-07-31 : 10:24:31 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:24:34 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:24:34 - ERROR - searching for : Ben
+2018-07-31 : 10:24:35 - INFO  - =====================================================
+2018-07-31 : 10:24:35 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:24:35 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:24:35 - INFO  - =====================================================
+2018-07-31 : 10:24:38 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:38 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:40 - INFO  - Current Browser is: ChromeDriver: chrome on XP (62409950d961bea30c1f052771bc0bac)
+2018-07-31 : 10:24:41 - INFO  - =====================================================
+2018-07-31 : 10:24:41 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:24:41 - INFO  - =====================================================
+2018-07-31 : 10:24:41 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:24:43 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:24:43 - ERROR - searching for : Ben
+2018-07-31 : 10:24:44 - INFO  - =====================================================
+2018-07-31 : 10:24:44 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:24:44 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:24:44 - INFO  - =====================================================
+2018-07-31 : 10:24:47 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:47 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:49 - INFO  - Current Browser is: ChromeDriver: chrome on XP (9518ef34fbc6a35e7d1cf0a7e4b54f99)
+2018-07-31 : 10:24:50 - INFO  - =====================================================
+2018-07-31 : 10:24:50 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:24:50 - INFO  - =====================================================
+2018-07-31 : 10:24:50 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:24:50 - INFO  - =====================================================
+2018-07-31 : 10:24:50 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:24:50 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:24:50 - INFO  - =====================================================
+2018-07-31 : 10:24:51 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:51 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:24:53 - INFO  - Current Browser is: ChromeDriver: chrome on XP (4fd730a7ba38f5ac2af8826d7e2ecc17)
+2018-07-31 : 10:24:55 - INFO  - =====================================================
+2018-07-31 : 10:24:55 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:24:55 - INFO  - =====================================================
+2018-07-31 : 10:24:55 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:24:57 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:24:57 - ERROR - searching for : Ben
+2018-07-31 : 10:24:58 - INFO  - =====================================================
+2018-07-31 : 10:24:58 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:24:58 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:24:58 - INFO  - =====================================================
+2018-07-31 : 10:25:56 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:25:56 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:25:59 - INFO  - Current Browser is: ChromeDriver: chrome on XP (4b2594de0f250a7f5cbbaacad515bc9f)
+2018-07-31 : 10:26:00 - INFO  - =====================================================
+2018-07-31 : 10:26:00 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:26:00 - INFO  - =====================================================
+2018-07-31 : 10:26:00 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:26:02 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:26:02 - ERROR - searching for : Ben
+2018-07-31 : 10:26:03 - INFO  - =====================================================
+2018-07-31 : 10:26:03 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:26:03 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:26:03 - INFO  - =====================================================
+2018-07-31 : 10:26:05 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:05 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:07 - INFO  - Current Browser is: ChromeDriver: chrome on XP (88e016fe90128ad9417e5b55cf7f4a25)
+2018-07-31 : 10:26:08 - INFO  - =====================================================
+2018-07-31 : 10:26:08 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:26:08 - INFO  - =====================================================
+2018-07-31 : 10:26:08 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:26:10 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:26:10 - ERROR - searching for : Ben
+2018-07-31 : 10:26:11 - INFO  - =====================================================
+2018-07-31 : 10:26:11 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:26:11 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:26:11 - INFO  - =====================================================
+2018-07-31 : 10:26:14 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:14 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:16 - INFO  - Current Browser is: ChromeDriver: chrome on XP (3f29fcbfad4dd717eeb01accdabc1733)
+2018-07-31 : 10:26:17 - INFO  - =====================================================
+2018-07-31 : 10:26:17 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:26:17 - INFO  - =====================================================
+2018-07-31 : 10:26:17 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:26:17 - INFO  - =====================================================
+2018-07-31 : 10:26:17 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:26:17 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:26:17 - INFO  - =====================================================
+2018-07-31 : 10:26:19 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:19 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:26:21 - INFO  - Current Browser is: ChromeDriver: chrome on XP (9eff254b06b4f9541337dc9a4635af4e)
+2018-07-31 : 10:26:22 - INFO  - =====================================================
+2018-07-31 : 10:26:22 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:26:22 - INFO  - =====================================================
+2018-07-31 : 10:26:22 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:26:24 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:26:24 - ERROR - searching for : Ben
+2018-07-31 : 10:26:25 - INFO  - =====================================================
+2018-07-31 : 10:26:25 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:26:25 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:26:25 - INFO  - =====================================================
+2018-07-31 : 10:28:54 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:28:54 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:28:57 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (0f110e70-94ce-11e8-a2d1-5da0f69dd8ba)
+2018-07-31 : 10:28:57 - INFO  - =====================================================
+2018-07-31 : 10:28:57 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:28:57 - INFO  - =====================================================
+2018-07-31 : 10:28:57 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:29:00 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:29:00 - ERROR - searching for : Ben
+2018-07-31 : 10:29:01 - INFO  - =====================================================
+2018-07-31 : 10:29:01 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:29:01 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:29:01 - INFO  - =====================================================
+2018-07-31 : 10:29:02 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:02 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:04 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (1376d990-94ce-11e8-8706-2fc8df7cfdc0)
+2018-07-31 : 10:29:04 - INFO  - =====================================================
+2018-07-31 : 10:29:04 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:29:04 - INFO  - =====================================================
+2018-07-31 : 10:29:04 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:29:08 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:29:08 - ERROR - searching for : Ben
+2018-07-31 : 10:29:08 - INFO  - =====================================================
+2018-07-31 : 10:29:08 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:29:08 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:29:08 - INFO  - =====================================================
+2018-07-31 : 10:29:09 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:09 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:11 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (1798e4f0-94ce-11e8-892b-97609469ddef)
+2018-07-31 : 10:29:11 - INFO  - =====================================================
+2018-07-31 : 10:29:11 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:29:11 - INFO  - =====================================================
+2018-07-31 : 10:29:11 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:29:11 - INFO  - =====================================================
+2018-07-31 : 10:29:11 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:29:11 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:29:11 - INFO  - =====================================================
+2018-07-31 : 10:29:12 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:12 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:29:14 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (195784e0-94ce-11e8-b7db-b19c2cee925d)
+2018-07-31 : 10:29:14 - INFO  - =====================================================
+2018-07-31 : 10:29:14 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:29:14 - INFO  - =====================================================
+2018-07-31 : 10:29:14 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:29:18 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:29:18 - ERROR - searching for : Ben
+2018-07-31 : 10:29:18 - INFO  - =====================================================
+2018-07-31 : 10:29:18 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:29:18 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:29:18 - INFO  - =====================================================
+2018-07-31 : 10:44:16 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:16 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:19 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (34f9e1a0-94d0-11e8-87d5-e311bdb899a3)
+2018-07-31 : 10:44:19 - INFO  - =====================================================
+2018-07-31 : 10:44:19 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:44:19 - INFO  - =====================================================
+2018-07-31 : 10:44:19 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:44:23 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:44:23 - ERROR - searching for : Ben
+2018-07-31 : 10:44:24 - INFO  - =====================================================
+2018-07-31 : 10:44:24 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:44:24 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:44:24 - INFO  - =====================================================
+2018-07-31 : 10:44:24 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:24 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:27 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (39604900-94d0-11e8-bb5c-77d7aff2fa58)
+2018-07-31 : 10:44:27 - INFO  - =====================================================
+2018-07-31 : 10:44:27 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:44:27 - INFO  - =====================================================
+2018-07-31 : 10:44:27 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:44:30 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:44:30 - ERROR - searching for : Ben
+2018-07-31 : 10:44:31 - INFO  - =====================================================
+2018-07-31 : 10:44:31 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:44:31 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:44:31 - INFO  - =====================================================
+2018-07-31 : 10:44:32 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:32 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:34 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (3d9b81b0-94d0-11e8-8870-7fb70150d724)
+2018-07-31 : 10:44:34 - INFO  - =====================================================
+2018-07-31 : 10:44:34 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:44:34 - INFO  - =====================================================
+2018-07-31 : 10:44:34 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:44:34 - INFO  - =====================================================
+2018-07-31 : 10:44:34 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:44:34 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:44:34 - INFO  - =====================================================
+2018-07-31 : 10:44:35 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:35 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:44:37 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (3f5abde0-94d0-11e8-ab78-2b12f0535e09)
+2018-07-31 : 10:44:37 - INFO  - =====================================================
+2018-07-31 : 10:44:37 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:44:37 - INFO  - =====================================================
+2018-07-31 : 10:44:37 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:44:40 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:44:40 - ERROR - searching for : Ben
+2018-07-31 : 10:44:41 - INFO  - =====================================================
+2018-07-31 : 10:44:41 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:44:41 - INFO  - Scenario Test time duration is:>  0 Minutes : 4 Seconds 
+2018-07-31 : 10:44:41 - INFO  - =====================================================
+2018-07-31 : 10:51:03 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:03 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:06 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (27747760-94d1-11e8-b111-b56c11abdf66)
+2018-07-31 : 10:51:06 - INFO  - =====================================================
+2018-07-31 : 10:51:06 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:51:06 - INFO  - =====================================================
+2018-07-31 : 10:51:06 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:51:09 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:51:09 - ERROR - searching for : Ben
+2018-07-31 : 10:51:10 - INFO  - =====================================================
+2018-07-31 : 10:51:10 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:51:10 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:51:10 - INFO  - =====================================================
+2018-07-31 : 10:51:11 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:11 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:13 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (2b89d890-94d1-11e8-b77e-e9dca82759c5)
+2018-07-31 : 10:51:13 - INFO  - =====================================================
+2018-07-31 : 10:51:13 - INFO  - Starting Scenario:> MAGICAL APP Test
+2018-07-31 : 10:51:13 - INFO  - =====================================================
+2018-07-31 : 10:51:13 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:51:16 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:51:16 - ERROR - searching for : Ben
+2018-07-31 : 10:51:17 - INFO  - =====================================================
+2018-07-31 : 10:51:17 - INFO  - Completed Scenario:MAGICAL APP Test
+2018-07-31 : 10:51:17 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:51:17 - INFO  - =====================================================
+2018-07-31 : 10:51:18 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:18 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:20 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (2f928f90-94d1-11e8-9c39-7fec25838381)
+2018-07-31 : 10:51:20 - INFO  - =====================================================
+2018-07-31 : 10:51:20 - INFO  - Starting Scenario:> User verify sorting display in the right order
+2018-07-31 : 10:51:20 - INFO  - =====================================================
+2018-07-31 : 10:51:20 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:51:20 - INFO  - =====================================================
+2018-07-31 : 10:51:20 - INFO  - Completed Scenario:User verify sorting display in the right order
+2018-07-31 : 10:51:20 - INFO  - Scenario Test time duration is:>  0 Minutes : 0 Seconds 
+2018-07-31 : 10:51:20 - INFO  - =====================================================
+2018-07-31 : 10:51:20 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:20 - INFO  - Current Platform is: Windows 10
+2018-07-31 : 10:51:23 - INFO  - Current Browser is: PhantomJSDriver: phantomjs on XP (314855e0-94d1-11e8-911b-930df3cb2f23)
+2018-07-31 : 10:51:23 - INFO  - =====================================================
+2018-07-31 : 10:51:23 - INFO  - Starting Scenario:> User can sort in the right order
+2018-07-31 : 10:51:23 - INFO  - =====================================================
+2018-07-31 : 10:51:23 - INFO  - ------------------------------------------------------------------------------------------------------------------------------------------------
+     OOOOOOOOO                                                               BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD        TTTTTTTTTTTTTTTTTTTTTTT
+   OO:::::::::OO                                                             B::::::::::::::::B  D::::::::::::DDD     T:::::::::::::::::::::T
+ OO:::::::::::::OO                                                           B::::::BBBBBB:::::B D:::::::::::::::DD   T:::::::::::::::::::::T
+O:::::::OOO:::::::O                                                          BB:::::B     B:::::BDDD:::::DDDDD:::::D  T:::::TT:::::::TT:::::T
+O::::::O   O::::::Oppppp   ppppppppp       eeeeeeeeeeee    nnnn  nnnnnnnn      B::::B     B:::::B  D:::::D    D:::::D TTTTTT  T:::::T  TTTTTT
+O:::::O     O:::::Op::::ppp:::::::::p    ee::::::::::::ee  n:::nn::::::::nn    B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Op:::::::::::::::::p  e::::::eeeee:::::een::::::::::::::nn   B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::Opp::::::ppppp::::::pe::::::e     e:::::enn:::::::::::::::n  B:::::::::::::BB    D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::eeeee::::::e  n:::::nnnn:::::n  B::::BBBBBB:::::B   D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe:::::::::::::::::e   n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O:::::O     O:::::O p:::::p     p:::::pe::::::eeeeeeeeeee    n::::n    n::::n  B::::B     B:::::B  D:::::D     D:::::D        T:::::T        
+O::::::O   O::::::O p:::::p    p::::::pe:::::::e             n::::n    n::::n  B::::B     B:::::B  D:::::D    D:::::D         T:::::T        
+O:::::::OOO:::::::O p:::::ppppp:::::::pe::::::::e            n::::n    n::::nBB:::::BBBBBB::::::BDDD:::::DDDDD:::::D        TT:::::::TT      
+ OO:::::::::::::OO  p::::::::::::::::p  e::::::::eeeeeeee    n::::n    n::::nB:::::::::::::::::B D:::::::::::::::DD         T:::::::::T      
+   OO:::::::::OO    p::::::::::::::pp    ee:::::::::::::e    n::::n    n::::nB::::::::::::::::B  D::::::::::::DDD           T:::::::::T      
+     OOOOOOOOO      p::::::pppppppp        eeeeeeeeeeeeee    nnnnnn    nnnnnnBBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD              TTTTTTTTTTT      
+                    p:::::p                                                                                                                  
+                    p:::::p                                                                                                                  
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   p:::::::p                                                                                                                 
+                   ppppppppp																												     
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2018-07-31 : 10:51:25 - INFO  - Google_Url is: https://www.w3schools.com/howto/howto_js_sort_table.asp
+2018-07-31 : 10:51:25 - ERROR - searching for : Ben
+2018-07-31 : 10:51:26 - INFO  - =====================================================
+2018-07-31 : 10:51:26 - INFO  - Completed Scenario:User can sort in the right order
+2018-07-31 : 10:51:26 - INFO  - Scenario Test time duration is:>  0 Minutes : 3 Seconds 
+2018-07-31 : 10:51:26 - INFO  - =====================================================

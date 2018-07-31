@@ -54,6 +54,10 @@ public class Driver {
     public static void setSystemsProperties() {
         currentDir = System.getProperty("user.dir");
         log().info("Current Platform is: " + System.getProperty("os.name"));
+//        if (System.getProperty("os.name").contains("Windows")) {
+//            System.setProperty("webdriver.chrome.driver", currentDir
+//                    + "/drivers/chromedriver.exe");
+        
         if (System.getProperty("os.name").contains("Windows")) {
             System.setProperty("phantomjs.binary.path", currentDir
                     + "/drivers/phantomjs.exe");
